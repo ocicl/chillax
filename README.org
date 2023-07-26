@@ -1,0 +1,10 @@
+* chillax
+
+CouchDB abstraction layer for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/zkat/chillax.git   |
+| commit  | dc69796  |
+| systems | chillax |
+|---------+-------------------------------------------|
+
